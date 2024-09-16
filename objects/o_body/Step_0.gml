@@ -1,0 +1,1 @@
+//image_alpha = bulb_alpha + .3;

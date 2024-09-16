@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"o_head",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"o_bulb",
+  "eventList":[],
   "managed":true,
-  "name":"o_head",
+  "name":"o_bulb",
   "overriddenProperties":[],
   "parent":{
     "name":"Sea Creature",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_body",
-    "path":"sprites/s_body/s_body.yy",
+    "name":"s_bulb",
+    "path":"sprites/s_bulb/s_bulb.yy",
   },
   "spriteMaskId":null,
   "visible":true,
